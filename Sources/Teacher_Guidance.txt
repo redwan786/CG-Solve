@@ -1,0 +1,30 @@
+Dear All,
+I hope you are doing well and preparing yourself well for the upcoming semester final examination.  To facilitate your preparation, I have shared the question pattern and some important suggestions regarding the final exam. Please, spare some minutes to go through the post carefully.
+
+Question Pattern and Marks Distribution:
+There will be three sets of questions, each carrying seven questions.  You need to answer any five questions out of the seven questions from each set.
+Q1 -> Contains 7 questions [1(a) -1(g)], each carrying 4 marks. You need to answer any 5 out of these 7. Questions will be theoretical from this part, focusing on fundamental concepts and explanations. Also, you will get 7 questions from 6 different lectures from this part.
+Q2 -> Contains 7 questions [2(a) - 2(g)], each carrying 5 marks. You need to answer any 5 out of these 7. These questions will be application-based, where you are expected to follow given instructions and apply the appropriate formulas or methods to solve it.
+Q3 -> Contains 7 questions [3(a) - 3(g)], each carrying 5 marks. You need to answer any 5 out of these 7. Questions in this part will be analytical. You need to put extra effort to analyze and understand the questions and answer accordingly.
+Important Suggestion for the Exam:
+Questions will be mostly conceptual, not straightforward. Try to have a deeper understanding of each topic rather than just memorizing.
+You will find at least one question in each set from the quiz questions with minor modifications. I have attached all the quiz questions herewith for you to practice. However, I did not provide the solutions because I want you to try the solutions yourself for proper understanding.
+Manage your time properly. Be specific about the answer, don’t need to exaggerate it where it’s not necessary. In case of the matrix operation, showing detailed calculations is not necessary. You can use calculators to find results and write them directly.
+For the theory questions, explaining the topic in your own words should be enough, but the answer needs to be correct.
+You must solve each and every problem given as a practice problem in the lecture slides.
+Try to see the last few semesters’ questions. However, there is no guarantee that any direct questions from the previous semester will come. But it will help you a lot.
+For midpoint questions (if any), show detailed calculations. You should present them in a tabular format [(x, y), the decision variable, and related calculation]
+Drawing figures is not mandatory unless mentioned explicitly.
+Also, I have ordered the lectures according to the proportion of the marks they carry in the final exam. You can follow the following order while preparing for the final exam. However, I encourage you to go through every topic.
+
+[top to bottom: most important to less important]
+Lecture - 6
+Lecture - 5
+Lecture - 3
+Lecture - 4  [Lecture 3 and 4 have the same weight]
+Lecture - 8
+Lecture - 2
+Lecture - 7
+Lecture - 1
+
+Good Luck!
